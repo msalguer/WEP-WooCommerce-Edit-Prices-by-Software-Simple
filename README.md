@@ -31,9 +31,11 @@ Limitations:
 
 DEMO
 
-    http://wep.demos.hostingsimple.es/
+    WooCommerce: http://wep.demos.hostingsimple.es/
+    WEP WooCommerce Edit Prices: http://wep.demos.hostingsimple.es/WEP
     user: userwep
     pass: userwep
+    
     
     In the demo not appears user management administration panel
     
