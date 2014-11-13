@@ -1,0 +1,11 @@
+<!-- Edit this file to change the layout of each record in the table view -->
+<!-- To disable clicking of a field, remove the <%%select%%> and <%%endselect%%> formatters around it-->
+
+<!-- If you wish to hide the table view header that contains the column titles, -->
+<!-- open the generated 'ss_view_product_description_view.php' file in your text editor and -->
+<!-- change the value of $x->ShowTableHeader to 0 -->
+
+		<td id="ss_view_product_description-post_id-<%%VALUE(post_id)%%>" class="ss_view_product_description-post_id text-right"><%%SELECT%%><%%VALUE(post_id)%%><%%ENDSELECT%%></td>
+		<td id="ss_view_product_description-title-<%%VALUE(post_id)%%>" class="ss_view_product_description-title "><%%SELECT%%><%%VALUE(title)%%><%%ENDSELECT%%></td>
+		<td id="ss_view_product_description-excerpt-<%%VALUE(post_id)%%>" class="ss_view_product_description-excerpt "><%%SELECT%%><%%VALUE(excerpt)%%><%%ENDSELECT%%></td>
+		<td id="ss_view_product_description-post_status-<%%VALUE(post_id)%%>" class="ss_view_product_description-post_status "><%%SELECT%%><%%VALUE(post_status)%%><%%ENDSELECT%%></td>
