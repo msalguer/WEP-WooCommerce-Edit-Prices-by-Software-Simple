@@ -32,6 +32,8 @@ Limitations:
 DEMO
 
     http://wep.demos.hostingsimple.es/
+    user: userwep
+    pass: userwep
     
     In the demo not appears user management administration panel
     
