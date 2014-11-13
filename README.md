@@ -8,7 +8,7 @@ DESCRIPTION
     
     Includes a user management environment
 
-
+    
 Update Product Fields:
 
     Title: Product Title
@@ -28,6 +28,13 @@ Limitations:
     Not support edit prices with products variations (products with more than one price)
     The tool is not ideal, but it speeds up the work
 
+
+DEMO
+
+    http://wep.demos.hostingsimple.es/
+    
+    In the demo not appears user management administration panel
+    
 
 USE
 
